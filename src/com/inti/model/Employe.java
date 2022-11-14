@@ -4,7 +4,7 @@ public class Employe {
 	private long idEmploye;
 	private String nomEmploye;
 	private int age;
-	private float salaireeeeee;
+	private float salaireeeeeee;
 	
 	private Employe() {
 		
